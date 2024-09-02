@@ -1,0 +1,25 @@
+A software key logger is a type of surveillance software that records every keystroke made on a computer or mobile device. It is often used to monitor and track user activity, usually without the user's knowledge or consent.
+
+Features:
+
+Records all keystrokes, including passwords, emails, and chat conversations
+Can capture screenshots and record mouse movements
+May include additional features such as microphone and camera access
+Can be installed remotely or locally on a device
+Often runs in stealth mode, making it difficult to detect
+Use Cases:
+
+Employee monitoring: Employers may use key loggers to track employee activity on company devices.
+Parental control: Parents may use key loggers to monitor their children's online activity.
+Law enforcement: Law enforcement agencies may use key loggers as a tool for investigating crimes.
+Important Note:
+
+The use of key loggers can raise significant privacy concerns and may be subject to local laws and regulations.
+It is essential to use key loggers responsibly and in compliance with applicable laws.
+Installation and Usage:
+
+To use this software key logger, follow these steps:
+
+Clone the repository using git clone https://github.com/your-repo/key-logger.git
+Install the required dependencies using pip install -r requirements.txt
+Run the key logger using python key_logger.py
